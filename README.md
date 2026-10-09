@@ -12,19 +12,19 @@ The Linux Security Check project aimed to gather essential informations about th
 - Basic reconnaissance
 
 ### Tools Used
-pwd
-cd
-mkdir
-touch/nano
-date
-whoami
-hostname
-hostnamectl
-df -h
-free -h
-ip -br addr
-who
-wc -l < /etc/passwd
+- pwd
+- cd
+- mkdir
+- touch/nano
+- date
+- whoami
+- hostname
+- hostnamectl
+- df -h
+- free -h
+- ip -br addr
+- who
+- wc -l < /etc/passwd
 
 ## Steps
 
