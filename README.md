@@ -6,10 +6,10 @@ The Linux Security Check project aimed to gather essential informations about th
 
 ### Skills Learned
 
--Navigation inside of the Linux system
--Creating a bash script
--Gathering informations about the system using Linux commands
--Basic reconnaissance
+- Navigation inside of the Linux system
+- Creating a bash script
+- Gathering informations about the system using Linux commands
+- Basic reconnaissance
 
 ### Tools Used
 pwd
@@ -28,4 +28,5 @@ wc -l < /etc/passwd
 
 ## Steps
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bf83b50-e7bb-49e7-9287-d20180f0ae2d" />
+<img width="485" height="585" alt="image" src="https://github.com/user-attachments/assets/b1a89718-1327-4f55-86f2-f2df2d9b9502" />
+
