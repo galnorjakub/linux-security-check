@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Linux Security Check project aimed to gather essential informations about the system, such as user, hostname, OS/Kernel information, storage and memory usage, network informations, currently logged users, and root detection.
+The Linux Security Check project aimed to gather essential informations about the system, such as user, hostname, OS/Kernel information, storage and memory usage, network informations, current users, currently logged-in users, and root detection.
 
 ### Skills Learned
 
