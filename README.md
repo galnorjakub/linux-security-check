@@ -1,4 +1,4 @@
-# linux-security-check
+# Linux-Security-Check
 
 ## Objective
 
